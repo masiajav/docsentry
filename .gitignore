@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+.pipenv
+Pipfile.lock
+
+# Development
+*.log
+*.cache
+*.bak
+*.swp
+*~
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# ML Models and Data
+*.h5
+*.pth
+*.model
+*.pickle
+*.pkl
+models/
+data/
+*.pdf
+
+# Testing
+.coverage
+coverage.xml
+*.cover
+*.pytest_cache/
+
+# Documentation
+docs/_build/
+docs/*.rst
+
+# Miscellaneous
+*.egg-info/
+dist/
+build/
+*.egg
