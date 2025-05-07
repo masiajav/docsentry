@@ -1,6 +1,6 @@
 # DocSentry
 
-**DocSentry** is an open-source, AI-powered tool that extracts protocol-specific details (UART, I2C, SPI, GPIO) from MCU datasheets, supporting ARM-based MCUs like STM32F4 and others. Using natural language processing, it parses PDFs to deliver register maps, protocol configurations, and query responses in JSON, streamlining embedded development. Designed to run locally on a PC or Raspberry Pi, DocSentry is built for flexibility and community collaboration.
+**DocSentry** is an open-source, AI-powered tool that extracts protocol-specific details (UART, I2C, SPI, GPIO) from MCU datasheets, supporting ARM-based MCUs like STM32F4 and others. Using natural language processing, it parses PDFs to deliver register maps, protocol configurations, and query responses in JSON, streamlining embedded development. Designed to run locally on a PC, DocSentry is built for flexibility.
 
 ## Features
 - **Datasheet Parsing**: Extracts register maps and protocol settings (UART, I2C, SPI, GPIO) from MCU datasheets.
