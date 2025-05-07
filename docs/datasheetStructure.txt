@@ -1,0 +1,30 @@
+GENERAL DATASHEET STRUCTURE
+
+Introduction
+
+Description
+
+Functional overview
+- Flash
+- RAM
+- MPU
+- Embedded flash
+- Checksums
+- DMA
+- NVIC
+- Power supply
+- Interrupts
+- Low power modes
+- Timers
+- UART
+- SPI
+- I2C
+and others
+
+Pinouts and pin description
+
+Memory mapping
+
+Electrical characteristics
+
+Appendix
